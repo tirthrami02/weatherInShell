@@ -46,3 +46,5 @@ do
 done
 
 echo "Done. Results written to historical_fc_accuracy.tsv"
+
+./weekly_stats.sh
