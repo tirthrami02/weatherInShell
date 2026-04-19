@@ -74,8 +74,3 @@ The project generates:
 * Works on any Unix or Linux system
 * Focused on simplicity and automation
 * Good practice project for bash scripting and cron jobs
-
----
-
-```
-```
